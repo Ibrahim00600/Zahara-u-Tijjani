@@ -1,0 +1,307 @@
+SALE PERFORMANCE DASHBOARD
+🔷 1. OVERALL STRUCTURE OF THE IMAGE
+
+The image is divided into two main sections:
+
+🟩 Left Side → Excel Dashboard
+
+This shows the actual data analysis dashboard
+
+🟧 Right Side → PowerPoint Presentation
+
+This shows how to present the dashboard step-by-step
+
+
+
+🟩 PART 1: EXCEL DASHBOARD (LEFT SIDE)
+
+🔹 A. KPI CARDS (Top Section)
+
+These are the Key Performance Indicators (KPIs) — very important in business.
+
+Total Revenue (₦245,860)
+→ Total money generated from all sales
+
+Average Sales (₦683.00)
+→ Average value per transaction
+
+Total Quantity (360)
+→ Total number of items sold
+
+Highest Sale (₦3,250)
+→ Biggest single sale
+
+Lowest Sale (₦50)
+→ Smallest sale
+
+
+👉 These KPIs give a quick summary of performance
+
+
+🔹 B. FILTER PANEL (Left Sidebar)
+
+These are called Slicers (Interactive Filters)
+
+Region → Abuja, Lagos, Kano, etc.
+
+Category → Electronics, Furniture, Appliances
+
+Sales Rep → Names of staff
+
+Payment Method → Cash, Card, Transfer
+
+Date (Month) → Jan–Dec
+
+
+👉 Purpose:
+
+Allows users to filter data instantly
+
+Makes dashboard interactive
+
+
+
+
+🔹 C. REVENUE BY REGION (Bar Chart)
+
+Shows how much each location generated.
+
+Example:
+
+Lagos → Highest revenue
+
+Others → Lower
+
+
+👉 Business Use:
+
+Identify strong markets
+
+Decide where to invest more
+
+
+
+
+🔹 D. REVENUE BY CATEGORY (Pie Chart)
+
+Breakdown of sales by product type:
+
+Electronics → 71% (highest)
+
+Furniture → 22%
+
+Appliances → 7%
+
+
+👉 Meaning:
+
+Electronics is the most profitable category
+
+
+
+
+🔹 E. SALES REP PERFORMANCE (Bar Chart)
+
+Compares workers:
+
+Ibrahim
+
+Aisha
+
+Musa
+
+Fatima
+
+Sadiya
+
+
+👉 Purpose:
+
+Measure employee performance
+
+Helps with bonuses & promotions
+
+
+
+🔹 F. TOP PRODUCTS TABLE
+
+Lists best-selling items:
+
+Examples:
+
+Laptop
+
+Smartphone
+
+Office Chair
+
+
+Shows:
+
+Revenue
+
+Quantity sold
+
+
+👉 Helps identify:
+
+High-demand products
+
+
+
+🔹 G. MONTHLY REVENUE TREND (Line Chart)
+
+Shows sales from January → December
+
+👉 Purpose:
+
+Detect growth or decline trends
+
+Plan for future months
+
+
+
+
+🔹 H. BUSINESS INSIGHTS (Important!)
+
+This section explains findings:
+
+Lagos generated highest revenue
+
+Electronics dominate sales
+
+Laptop & Smartphone are top products
+
+Sales peak occurred mid-year
+
+
+👉 This is where data turns into knowledge
+
+
+
+🔹 I. MANAGERIAL DECISIONS
+
+Based on insights:
+
+Increase stock of electronics
+
+Focus marketing on Lagos
+
+Improve low-performing categories
+
+Reward top sales reps
+
+
+👉 This is the decision-making stage
+
+
+🔹 J. DASHBOARD CREATION STEPS (Bottom)
+
+Shows how it was built:
+
+1. Prepare data
+
+
+2. Create Pivot Tables
+
+
+3. Insert Charts
+
+
+4. Add Slicers
+
+
+5. Design Dashboard
+
+
+
+🟧 PART 2: POWERPOINT PRESENTATION (RIGHT SIDE)
+
+This part shows how to present your project
+
+
+🔸 1. TITLE SLIDE
+
+Project name
+
+Your name
+
+Course
+
+
+
+
+🔸 2. PROJECT OVERVIEW
+
+Explain:
+
+What the dashboard does
+
+Why it is important
+
+
+
+🔸 3. OBJECTIVES
+
+Examples:
+
+Track revenue
+
+Compare regions
+
+Analyze performance
+
+
+
+🔸 4. KPIs SLIDE
+
+Explain the key metrics:
+
+Revenue
+
+Quantity
+
+Highest/Lowest sales
+
+
+
+🔸 5. DASHBOARD OVERVIEW
+
+Show screenshot of dashboard
+Explain:
+
+Charts
+
+Filters
+
+
+
+🔸 6–9. ANALYSIS SLIDES
+
+Each slide explains one chart:
+
+Revenue by Region
+
+Revenue by Category
+
+Sales Rep Performance
+
+Filters
+
+
+
+🔸 10. BUSINESS INSIGHTS
+
+Explain findings from data
+
+
+🔸 11. MANAGERIAL DECISIONS
+
+Explain actions based on insights
+
+
+🔸 12. TOOLS USED
+
+Excel
+
+PowerPoints
